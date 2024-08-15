@@ -46,6 +46,3 @@ class UI:
         View.clienteExcluir(id)
   
 UI.Main()
-
-    
-
