@@ -28,7 +28,7 @@ class UI:
     @staticmethod
     def clienteListar():
         for cliente in View.clienteListar():
-            print(cliente)
+            print(cliente) 
 
     @staticmethod
     def clienteAtualizar():
